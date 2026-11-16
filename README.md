@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="cat_console.gif" alt="banner" width="100%" />
+</div>
+
 ## Hi there 👋
 
 <!--
